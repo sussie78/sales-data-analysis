@@ -2,7 +2,7 @@
 
 # 📊 Sales Data Analysis Project
 
-**By:** Stellah, Junior Data Analyst  
+**By:** Stellah, Junior Data Analyst   
 
 ## 📖 Overview
 This project analyzes **sales data** using SQL queries, uncovering key business insights. The dataset includes **sales transactions, products, and store details**.  
