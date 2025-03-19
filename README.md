@@ -108,4 +108,4 @@ This project is open-source under the **MIT License**. See [`LICENSE`](LICENSE) 
 
  
 ---
-👨‍💻 Created by Stellah Ulriksen (https://github.com/sussie78) | 🚀 Connect with me on [https://www.linkedin.com/in/stellah-ulriksen-381666222/details/skills/)
+👨‍💻 Created by Stellah Ulriksen (https://github.com/sussie78) | 🚀 Connect with me on [https://www.linkedin.com/in/stellah-ulriksen-381666222)
