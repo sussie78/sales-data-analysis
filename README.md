@@ -57,16 +57,16 @@ ORDER BY sale_date;
 - **X-axis:** Store Name
 - **Y-axis:** Revenue ($)
 
-![Total Sales by Store](visualizations/total_sales_by_store.png)
+![Total Sales by Store](Visualizations/total_sales_by_store_fixed.png)
 
 ### Daily Sales Trend
 - **X-axis:** Date
 - **Y-axis:** Revenue ($)
 
-![Daily Sales Trend](visualizations/daily_sales_trend.png)
+![Daily Sales Trend](Visualizations/daily_sales_trend_fixed.png)
 
 ### Best-Selling Products (Pie Chart)
-![Best-Selling Products](visualizations/best_selling_products.png)
+![Best-Selling Products](Visualizations/best_selling_products_fixed.png)
 
 ## 🛠️ How to Use This Project
 ### 📌 Steps to Reproduce:
