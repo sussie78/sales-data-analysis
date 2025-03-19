@@ -81,9 +81,6 @@ cd sales-data-analysis
 ## 📜 License
 This project is open-source under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
-## 📺 Demo Video (Optional)
-🎥 [Watch the project walkthrough](your-video-link)
-
 📢 **Follow me for more projects!** 🚀
 
 
